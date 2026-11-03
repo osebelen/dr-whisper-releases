@@ -6,12 +6,12 @@ Hold a hotkey, talk, release: your words are transcribed, cleaned up and pasted 
 
 **[Get the latest version](https://github.com/osebelen/dr-whisper-releases/releases/latest)**, then pick the installer for your PC:
 
-| Your PC | File to download |
+| Your PC | Download (always the newest version) |
 |---|---|
-| Most Windows 10 / 11 PCs (Intel or AMD) | `DR.Whisper-Setup-<version>-x64.exe` |
-| Windows on ARM (for example Surface Pro 11) | `DR.Whisper-Setup-<version>-arm64.exe` |
+| Most Windows 10 / 11 PCs (Intel or AMD) | **[DR.Whisper-Setup-x64.exe](https://github.com/osebelen/dr-whisper-releases/releases/latest/download/DR.Whisper-Setup-x64.exe)** |
+| Windows on ARM (for example Surface Pro 11) | **[DR.Whisper-Setup-arm64.exe](https://github.com/osebelen/dr-whisper-releases/releases/latest/download/DR.Whisper-Setup-arm64.exe)** |
 
-Not sure? Choose x64. It installs just for you (no administrator rights needed).
+These two links never change, so you can share them: they always give the newest version. Not sure which one? Choose x64. It installs just for you (no administrator rights needed).
 
 **Windows may show a blue "Windows protected your PC" screen the first time.** DR.Whisper is not code-signed. Click **More info**, then **Run anyway**.
 
